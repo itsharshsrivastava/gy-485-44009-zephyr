@@ -27,7 +27,7 @@ This Arduino sketch demonstrates how to communicate with an Gy-485-44009 sensor 
         B-     --------------------->    B-
 # Between nRF52832 and Gy-485-44009
     Arduino Uno                  Gy-485-44009
-    3.3 V  --------------------->    VCC
+    5 V    --------------------->    VCC
     GND    --------------------->    GND
     
 ## Installation
